@@ -1,0 +1,22 @@
+HELP DEMO v1.0 (Alpha)
+
+
+HELP DEMO v1.0 Its a demo...
+
+
+INSTRUCTIONS:
+Open app
+
+
+FEATURES:
+None
+
+
+SUPPORT INFORMATION:
+
+Demodemo is developed by JJC.
+
+Melvin K. Cabatuan
+Phone: (+63)123-456-789
+Email: mailmymail@mail.mail
+All Rights Reserved
